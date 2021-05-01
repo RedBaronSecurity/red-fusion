@@ -7,7 +7,7 @@
       - [Client and Server](#client-and-server)
 ## What is Red-Fusion?
 ### General
-Red fusion is a platform for simplifying and easely managing multiple scanning applications (*OWASP Zap*, *Detectify* etc.) while optionally creating issues for Jira and adding communicating with it for when they are done.
+Red fusion is a platform for simplifying and easily managing multiple scanning applications (*OWASP Zap*, *Detectify* etc.) while optionally creating issues for Jira and adding communicating with it for when they are done.
 
 ## How does it look?
 #### Overview
