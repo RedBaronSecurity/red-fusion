@@ -1,5 +1,5 @@
 # Red-Fusion 
-## Table of Contents
+![logo](logo.png)
   - [What is Red-Fusion?](#what-is-red-fusion)
     - [General](#general)
   - [How does it look?](#how-does-it-look)
